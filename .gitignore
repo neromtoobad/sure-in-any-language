@@ -1,0 +1,14 @@
+.venv/
+models/
+logs/
+data/*.jsonl
+runs/_smoke/
+runs/*/server.log
+report/_build.html
+report/_body_filled.html
+report/draft.pdf
+report/template.*
+__pycache__/
+.DS_Store
+SUBMISSION.md
+report/refs.md
